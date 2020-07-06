@@ -1,0 +1,9 @@
+{
+    "name": "figoli-quinn/ewp-query",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FigoliQuinn\\EWPQuery\\": "src"
+        }
+    }
+}
